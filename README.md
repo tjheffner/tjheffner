@@ -1,6 +1,6 @@
-### 🌊 Hello
+### 🌊 Hello World
 
-I'm Tanner Heffner, a creative technologist with a decade plus experience across the stack.
+This is the github profile for Tanner Heffner, a creative technologist with a decade plus experience across the stack.
 
 https://heffner.dev
 
