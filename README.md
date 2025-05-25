@@ -1,4 +1,10 @@
-## Hi there 👋
+## 🌊 Hello
+
+I'm Tanner Heffner, a creative technologist with a decade plus experience across the stack.
+
+https://heffner.dev
+
+🏄‍♂️
 
 <!--
 **tjheffner/tjheffner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
