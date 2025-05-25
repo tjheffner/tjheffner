@@ -1,4 +1,4 @@
-#### 🌊 Hello
+### 🌊 Hello
 
 I'm Tanner Heffner, a creative technologist with a decade plus experience across the stack.
 
